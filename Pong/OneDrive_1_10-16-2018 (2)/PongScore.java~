@@ -1,0 +1,20 @@
+public class PongScore 
+{
+  private int score;
+  
+  public void PongScore() 
+  {
+    score = 0;
+  }
+  
+  public int getScore(score)
+  {
+    return score;
+  }
+  
+  public void scorePoints(int n) 
+  {
+    score = score + n;
+  }
+  
+}

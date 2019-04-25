@@ -1,0 +1,10 @@
+public class PongBall {
+ private int x, y, moveX, moveY;
+ 
+ public Pongball {
+  this.x = x;
+  this.y = y;
+  this.moveX = moveX;
+ }
+  
+}
